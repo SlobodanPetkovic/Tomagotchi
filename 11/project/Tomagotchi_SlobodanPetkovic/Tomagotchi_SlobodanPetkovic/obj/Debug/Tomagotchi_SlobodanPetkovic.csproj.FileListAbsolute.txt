@@ -1,0 +1,11 @@
+C:\Users\spetk\OneDrive\Bureaublad\tomagotchi\11\project\Tomagotchi_SlobodanPetkovic\Tomagotchi_SlobodanPetkovic\obj\Debug\Tomagotchi_SlobodanPetkovic.csproj.AssemblyReference.cache
+C:\Users\spetk\OneDrive\Bureaublad\tomagotchi\11\project\Tomagotchi_SlobodanPetkovic\Tomagotchi_SlobodanPetkovic\obj\Debug\Tomagotchi_SlobodanPetkovic.csproj.SuggestedBindingRedirects.cache
+C:\Users\spetk\OneDrive\Bureaublad\tomagotchi\11\project\Tomagotchi_SlobodanPetkovic\Tomagotchi_SlobodanPetkovic\obj\Debug\Tomagotchi_SlobodanPetkovic.Form1.resources
+C:\Users\spetk\OneDrive\Bureaublad\tomagotchi\11\project\Tomagotchi_SlobodanPetkovic\Tomagotchi_SlobodanPetkovic\obj\Debug\Tomagotchi_SlobodanPetkovic.Properties.Resources.resources
+C:\Users\spetk\OneDrive\Bureaublad\tomagotchi\11\project\Tomagotchi_SlobodanPetkovic\Tomagotchi_SlobodanPetkovic\obj\Debug\Tomagotchi_SlobodanPetkovic.csproj.GenerateResource.cache
+C:\Users\spetk\OneDrive\Bureaublad\tomagotchi\11\project\Tomagotchi_SlobodanPetkovic\Tomagotchi_SlobodanPetkovic\obj\Debug\Tomagotchi_SlobodanPetkovic.csproj.CoreCompileInputs.cache
+C:\Users\spetk\OneDrive\Bureaublad\tomagotchi\11\project\Tomagotchi_SlobodanPetkovic\Tomagotchi_SlobodanPetkovic\bin\Debug\Tomagotchi_SlobodanPetkovic.exe.config
+C:\Users\spetk\OneDrive\Bureaublad\tomagotchi\11\project\Tomagotchi_SlobodanPetkovic\Tomagotchi_SlobodanPetkovic\bin\Debug\Tomagotchi_SlobodanPetkovic.exe
+C:\Users\spetk\OneDrive\Bureaublad\tomagotchi\11\project\Tomagotchi_SlobodanPetkovic\Tomagotchi_SlobodanPetkovic\bin\Debug\Tomagotchi_SlobodanPetkovic.pdb
+C:\Users\spetk\OneDrive\Bureaublad\tomagotchi\11\project\Tomagotchi_SlobodanPetkovic\Tomagotchi_SlobodanPetkovic\obj\Debug\Tomagotchi_SlobodanPetkovic.exe
+C:\Users\spetk\OneDrive\Bureaublad\tomagotchi\11\project\Tomagotchi_SlobodanPetkovic\Tomagotchi_SlobodanPetkovic\obj\Debug\Tomagotchi_SlobodanPetkovic.pdb
